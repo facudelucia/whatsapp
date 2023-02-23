@@ -6,6 +6,7 @@ import MoreVertIcon from '@material-ui/icons/MoreVert';
 import {Avatar, IconButton} from "@material-ui/core";
 import { SearchOutlined } from '@material-ui/icons';
 import SidebarChat from './SidebarChat';
+
 const Sidebar = () => {
     return ( 
         <div className="sidebar">
